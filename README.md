@@ -1,2 +1,4 @@
 # Ultrakill-Programming-Art
-If you want to run and see the code, download processing 4
+If you want to see the code, download processing 4
+https://processing.org/download
+otherwise just run the exe in windows-amd
